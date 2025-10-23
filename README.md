@@ -1,4 +1,7 @@
 # .github
 
-Open Source Bike Plattform with ANT+, CAN, Bluetooth, AI Cameras and more to build the ultimative Smart Bike.
+This repository contains community health files and documentation for the PedalPirat organization.
 
+## Contents
+
+- [PEDALPIRAT_SUMMARY.md](PEDALPIRAT_SUMMARY.md) - Comprehensive summary of the PedalPirat project
